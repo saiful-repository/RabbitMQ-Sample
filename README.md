@@ -10,9 +10,9 @@ This is a **RabbitMQ** sample project demonstrating how to send messages to an e
 This setup ensures efficient message processing with multiple subscribers.
 
 ## Features
-**RabbitMQ Message Broker for asynchronous messaging**I
+**RabbitMQ Message Broker for Asynchronous Messaging**
 
-**Fanout Exchange for access message both queue at a time**I
+**Fanout Exchange to simultaneously deliver messages to multiple queues**
 
 **Multiple Consumers to handle messages concurrently**
 
