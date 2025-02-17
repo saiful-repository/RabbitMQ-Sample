@@ -3,9 +3,9 @@
 ## Overview
 This is a **RabbitMQ** sample project demonstrating how to send messages to an exchange (multi_log_msg) and consume them using multiple consumers:
 
-1. **IA console application (queue_console)**I
+1. **A console application (queue_console)**
 
-2. **IA web API with a background service (queue_webapi)**I
+2. **A web API with a background service (queue_webapi)**
 
 This setup ensures efficient message processing with multiple subscribers.
 
