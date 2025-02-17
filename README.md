@@ -26,3 +26,12 @@ This setup ensures efficient message processing with multiple subscribers.
 **ASP.NET Web API (Background Service)**
 
 **Console Application**
+
+## Send message from web api producer
+![My Screenshot](RabbitMQ_SendMessage.jpg)
+
+## Consume message by console app
+![My Screenshot](RabbitMQ_Console.jpg)
+
+## Consume message by web api background service
+![My Screenshot](RabbitMQ_WebApi.jpg)
